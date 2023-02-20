@@ -13,6 +13,10 @@
     <li>Which of our company's products don't do well on the market?</li>    
 </ol>
 
+
+<hr>
+Kaggle Notebook link: https://www.kaggle.com/abdunnoor11/sales-data-analysis
+
 <hr>
 Power Bi Link: https://app.powerbi.com/view?r=eyJrIjoiYjAzMWZjMDctMjNjYy00NTQ0LThlMTctMzhkZmZiYzNjMGJjIiwidCI6IjZkMGIwZGQ1LTg2YmMtNGJhOC05NjMxLTZjZjM1ODA1M2I1YiIsImMiOjEwfQ%3D%3D</hr>
 <img src="Salses.jpg" alt="Girl in a jacket" width=100% height=100%>
