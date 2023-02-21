@@ -1,4 +1,4 @@
-<h1>End-to-End Data Analysis Project on Sales Dataset</h1>
+<h1>📜End-to-End Data Analysis Project on Sales Dataset📜</h1>
 
 <p style="text-align: justify;">This case study is based on a computer hardware company that is struggling in a market that is constantly changing. The head of sales chooses to invest in a data analysis project and wants to create a Power BI dashboard that would provide him with real-time sales insights.</p>
 <p>So, here are some questions that I'll try to provide insights into by answering these questions.</p>
